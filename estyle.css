@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CA+Guides&display=swap');
+
+html{
+    font-family: "Playwrite CA Guides", cursive;
+     font-weight: 400;
+  font-style: normal;
+}
+h1 {
+    color: rgb(131, 36, 65);
+    font-size: 32px;
+    text-align: center;
+    font-style: italic;
+}
+
+p {
+    color: cadetblue;
+    font-size: 12px;
+}
+
+
+.parrafo {
+    color: rgb(141, 19, 141);
+    font-size: 12px;
+}
+
+#parrafo2 {
+    color: rgb(19, 102, 141);
+    font-size: 12px;
+}
+
+.seccion {
+    background-color: gray;
+    color: rgb(245, 242, 242);
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 50px 0 50px 0;
+}
